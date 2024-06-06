@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 562143371311936240}
   - component: {fileID: -880705855181081201}
   m_Layer: 0
-  m_Name: BOla de hielo
+  m_Name: Bola de hielo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -93,7 +93,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 196219195160868773}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a5f597c483253cd44a081df2ea229b90, type: 3}
+  m_Script: {fileID: 11500000, guid: 728e9ab50833f2c438f8d625545fa0c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rotation: {fileID: 8788881819898345085}

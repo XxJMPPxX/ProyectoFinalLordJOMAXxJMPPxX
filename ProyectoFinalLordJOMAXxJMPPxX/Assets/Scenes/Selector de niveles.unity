@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 3287011}
   - component: {fileID: 3287014}
   m_Layer: 0
-  m_Name: Isla1
+  m_Name: isla2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -403,7 +403,7 @@ GameObject:
   - component: {fileID: 503262330}
   - component: {fileID: 503262329}
   m_Layer: 0
-  m_Name: Play (1)
+  m_Name: Play 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -469,12 +469,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 503262328}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 35.45, y: -15.48, z: -4.12}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.25, y: -2.38, z: 5.88}
   m_LocalScale: {x: 0.10955974, y: 0.10955974, z: 0.10955974}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1248177512}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &645150441
 GameObject:
@@ -489,7 +489,7 @@ GameObject:
   - component: {fileID: 645150443}
   - component: {fileID: 645150446}
   m_Layer: 0
-  m_Name: Isla2
+  m_Name: isla1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -583,7 +583,7 @@ GameObject:
   m_Component:
   - component: {fileID: 817638552}
   m_Layer: 0
-  m_Name: isla1Ubicacion
+  m_Name: isla0Ubicacion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -603,6 +603,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 362751294}
+  - {fileID: 1548442479}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &856070143
@@ -615,7 +616,7 @@ GameObject:
   m_Component:
   - component: {fileID: 856070144}
   m_Layer: 0
-  m_Name: isla3Ubicacion
+  m_Name: isla2Ubicacion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -635,6 +636,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1785068439}
+  - {fileID: 1579669756}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &933517656
@@ -807,7 +809,7 @@ GameObject:
   - component: {fileID: 1132485436}
   - component: {fileID: 1132485437}
   m_Layer: 0
-  m_Name: Isla3
+  m_Name: Isla0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -945,7 +947,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1248177512}
   m_Layer: 0
-  m_Name: isla2Ubicacion
+  m_Name: isla1Ubicacion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -965,6 +967,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1921558864}
+  - {fileID: 503262330}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1548442477
@@ -978,7 +981,7 @@ GameObject:
   - component: {fileID: 1548442479}
   - component: {fileID: 1548442478}
   m_Layer: 0
-  m_Name: Play
+  m_Name: Play 0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1044,12 +1047,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1548442477}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.13, y: 4.02, z: -4.12}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.23000479, y: -2.4800186, z: 5.88}
   m_LocalScale: {x: 0.10955974, y: 0.10955974, z: 0.10955974}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 817638552}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1573912831
 GameObject:
@@ -1180,7 +1183,7 @@ GameObject:
   - component: {fileID: 1579669756}
   - component: {fileID: 1579669755}
   m_Layer: 0
-  m_Name: Play (2)
+  m_Name: Play 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1246,12 +1249,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1579669754}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.01, y: -36.09, z: -4.12}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.18999958, y: -2.2899857, z: 5.88}
   m_LocalScale: {x: 0.10955974, y: 0.10955974, z: 0.10955974}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 856070144}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1785068436
 GameObject:
@@ -1609,6 +1612,3 @@ SceneRoots:
   - {fileID: 856070144}
   - {fileID: 1248177512}
   - {fileID: 817638552}
-  - {fileID: 1548442479}
-  - {fileID: 503262330}
-  - {fileID: 1579669756}

@@ -22,8 +22,8 @@ public class CamaraOrden : MonoBehaviour
     private Node currentNode;
 
     public Transform[] positions;
-    public float transitionDuration = 1f; // Duración de la transición en segundos
-    public Ease transitionEase = Ease.InOutSine; // Tipo de easing para la transición
+    public float transitionDuration = 1f;
+    public Ease transitionEase = Ease.InOutSine; 
 
     void Start()
     {
@@ -32,7 +32,7 @@ public class CamaraOrden : MonoBehaviour
             return;
         }
 
-        // Crear los nodos y enlazarlos en una lista doblemente enlazada circular
+        
         head = new Node(positions[0]);
         tail = head;
 
@@ -44,7 +44,7 @@ public class CamaraOrden : MonoBehaviour
             tail = newNode;
         }
 
-        // Hacer la lista circular
+      
         tail.next = head;
         head.prev = tail;
 

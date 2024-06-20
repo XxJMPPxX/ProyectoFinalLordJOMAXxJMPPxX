@@ -1,30 +1,27 @@
 using UnityEngine;
 using DG.Tweening;
 
-public class SimpleController : MonoBehaviour
+public class ScriptCrecimientoSpell : MonoBehaviour
 {
-    [SerializeField] private float duration;
-    [SerializeField] private Ease easeValue = Ease.Linear;
+    [SerializeField] private float duration ;
+    [SerializeField] public AnimationCurve animationCurve = AnimationCurve.Linear(0.12f, 0, 0.39f, 0);
+    [SerializeField] private float rotationSpeed;
 
     private Vector3 originalScale;
+    private Vector3 smallScale;
 
-    private void Start()
+    void Start()
     {
-        
         originalScale = transform.localScale;
-       
-        transform.localScale = Vector3.zero;
-
-        Vector3 targetScale = Vector3.one;
-        
-        transform.DOScale(targetScale, duration)
-            .SetEase(easeValue)
-            .OnComplete(() => ReturnToOriginalScale());
+        smallScale = originalScale * 0.1f;
+        transform.localScale = smallScale;
+        transform.DOScale(originalScale, duration).SetEase(animationCurve);
     }
-    private void ReturnToOriginalScale()
+
+    void Update()
     {
-       
-        transform.DOScale(originalScale, duration)
-            .SetEase(easeValue);
+        
+        float angle = Time.time * rotationSpeed;
+        transform.rotation = Quaternion.Euler(0, 0, angle);
     }
 }

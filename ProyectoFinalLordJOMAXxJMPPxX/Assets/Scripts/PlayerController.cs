@@ -53,7 +53,7 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
-            jumpCount = 0; // Reiniciar el contador de saltos al estar en el suelo
+            jumpCount = 0; 
         }
     }
 

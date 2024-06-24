@@ -2,7 +2,7 @@
     "name": "Movimiento",
     "maps": [
         {
-            "name": "New action map",
+            "name": "Movement",
             "id": "263e25d7-8ab7-4c37-ac16-4f63b23682c4",
             "actions": [
                 {
@@ -16,21 +16,21 @@
                 },
                 {
                     "name": "Saltar",
-                    "type": "Value",
+                    "type": "Button",
                     "id": "f571fb20-de94-4a9b-8521-458743ffb0b9",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": true
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Boost",
-                    "type": "Value",
+                    "type": "Button",
                     "id": "c0b86fe8-3d2d-4c40-a40f-ebf25a70445b",
-                    "expectedControlType": "",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": true
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -108,6 +108,34 @@
                     "processors": "",
                     "groups": "",
                     "action": "Boost",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Ui",
+            "id": "efdc0e86-ff65-4c1e-b73e-03a79b6131c2",
+            "actions": [
+                {
+                    "name": "Ajustes",
+                    "type": "Button",
+                    "id": "656a9210-74c5-4b02-a39e-4aeab0a8018c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d1feb403-c735-4fd0-8fc8-99c03be61cb7",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Ajustes",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

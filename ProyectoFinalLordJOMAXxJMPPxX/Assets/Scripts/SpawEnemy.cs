@@ -1,33 +1,31 @@
 using UnityEngine;
+using System.Collections;
 
 public class SpawnEnemy : MonoBehaviour
 {
-    public GameObject enemyPrefab; // Prefab del monstruo a spawnear
-    public Transform[] spawnPoints; // Puntos de aparición posibles
-    public float spawnInterval = 3f; // Intervalo de tiempo entre apariciones
+    public GameObject[] enemyPrefabs;
+    public Transform[] spawnPoints; 
+    public float spawnInterval = 3f; 
 
-    private int maxEnemies = 20; // Máximo de monstruos a spawnear
-    private int currentEnemies = 0; // Contador de monstruos actuales
-    private float spawnTimer = 0f; // Temporizador para controlar el intervalo de aparición
+    private int maxEnemies = 20; 
+    private int currentEnemies = 0; 
 
-    void Update()
+    void Start()
     {
-        if (currentEnemies < maxEnemies)
-        {
-            spawnTimer += Time.deltaTime;
-
-            if (spawnTimer >= spawnInterval)
-            {
-                SpawnEnemigos();
-                spawnTimer = 0f;
-            }
-        }
+        StartCoroutine(SpawnEnemies());
     }
 
-    void SpawnEnemigos()
+    IEnumerator SpawnEnemies()
     {
-        int spawnIndex = Random.Range(0, spawnPoints.Length);
-        Instantiate(enemyPrefab, spawnPoints[spawnIndex].position, spawnPoints[spawnIndex].rotation);
-        currentEnemies++;
+        while (currentEnemies < maxEnemies)
+        {
+            yield return new WaitForSeconds(spawnInterval);
+
+            int spawnIndex = Random.Range(0, spawnPoints.Length); 
+            int enemyIndex = Random.Range(0, enemyPrefabs.Length); 
+
+            Instantiate(enemyPrefabs[enemyIndex], spawnPoints[spawnIndex].position, spawnPoints[spawnIndex].rotation);
+            currentEnemies++;
+        }
     }
 }

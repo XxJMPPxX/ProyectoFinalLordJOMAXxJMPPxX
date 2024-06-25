@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Camera
   - Ground
+  - hielo
+  - fuego
+  - Music
+  - SFX
+  - Master
   layers:
   - Default
   - TransparentFX

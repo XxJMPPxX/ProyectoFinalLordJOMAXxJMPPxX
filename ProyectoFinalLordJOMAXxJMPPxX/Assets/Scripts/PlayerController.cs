@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
@@ -9,10 +10,15 @@ public class PlayerController : MonoBehaviour
     private bool isGrounded;
     private int jumpCount;
     private Vector2 movementInput;
+    public AudioLibreria audioManager;
+
+
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody>();
+
+       
     }
 
     private void FixedUpdate()
@@ -20,31 +26,38 @@ public class PlayerController : MonoBehaviour
         Vector3 moveDirection = transform.right * movementInput.x + transform.forward * movementInput.y;
         Vector3 velocity = moveDirection * speed;
         rb.velocity = new Vector3(velocity.x, rb.velocity.y, velocity.z);
+
+       
     }
 
     public void Move(InputAction.CallbackContext context)
     {
         movementInput = context.ReadValue<Vector2>();
+        
+        audioManager.SFXSource.clip = audioManager.SFXSOunds[1];
+        audioManager.SFXSource.Play();
+
     }
 
     public void Jump(InputAction.CallbackContext context)
     {
-        if (context.performed && (isGrounded || jumpCount < 2))
+        if (context.performed && (isGrounded || jumpCount < 1))
         {
             rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             isGrounded = false;
             jumpCount++;
         }
     }
+
     public void Boost(InputAction.CallbackContext context)
     {
         if (context.performed)
         {
-            speed *= 2; 
+            speed *= 2;
         }
         else if (context.canceled)
         {
-            speed /= 2; 
+            speed /= 2;
         }
     }
 
@@ -53,7 +66,7 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
-            jumpCount = 0; 
+            jumpCount = 0;
         }
     }
 
@@ -72,4 +85,5 @@ public class PlayerController : MonoBehaviour
             isGrounded = true;
         }
     }
+
 }

@@ -98,7 +98,8 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 0}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: c830a3ecec4e0fb42abada2e3c4f9e6f,
+    type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -276,6 +277,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (91)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -358,6 +369,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tronco (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -442,6 +458,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -464,6 +490,10 @@ PrefabInstance:
     - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
       propertyPath: m_Name
       value: Hongo (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
         type: 3}
@@ -613,6 +643,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (81)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -695,6 +735,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (123)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -779,6 +829,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -861,6 +921,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (92)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -945,6 +1015,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (148)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1027,6 +1107,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1111,11 +1201,94 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9cd9d2138ff38c8489c0b485fe735b9e, type: 3}
+--- !u!1001 &35812970
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8050590822842910338, guid: 98c5ce036f68d8941922e7541fb70887,
+        type: 3}
+      propertyPath: LightsModule.rangeCurve.scalar
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295591563862043288, guid: 98c5ce036f68d8941922e7541fb70887,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 54.588
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295591563862043288, guid: 98c5ce036f68d8941922e7541fb70887,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -8.501
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295591563862043288, guid: 98c5ce036f68d8941922e7541fb70887,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 29.884
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295591563862043288, guid: 98c5ce036f68d8941922e7541fb70887,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295591563862043288, guid: 98c5ce036f68d8941922e7541fb70887,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295591563862043288, guid: 98c5ce036f68d8941922e7541fb70887,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295591563862043288, guid: 98c5ce036f68d8941922e7541fb70887,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295591563862043288, guid: 98c5ce036f68d8941922e7541fb70887,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295591563862043288, guid: 98c5ce036f68d8941922e7541fb70887,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295591563862043288, guid: 98c5ce036f68d8941922e7541fb70887,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295591563862043295, guid: 98c5ce036f68d8941922e7541fb70887,
+        type: 3}
+      propertyPath: m_Name
+      value: VFX_Fire_01_Medium
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 98c5ce036f68d8941922e7541fb70887, type: 3}
 --- !u!4 &37405243 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2385599936616030865, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
@@ -1199,6 +1372,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1375,6 +1558,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (96)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1396,7 +1589,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &68494717
 MeshRenderer:
@@ -1478,6 +1671,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1425880958}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -1548,98 +1746,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cerca (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29d7ac4bee87ea943a21e37a16719d0a, type: 3}
---- !u!1 &85381091
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 85381094}
-  - component: {fileID: 85381093}
-  - component: {fileID: 85381092}
-  m_Layer: 0
-  m_Name: eSTRELLA MAGIC
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!23 &85381092
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 85381091}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 367213180074456369, guid: e8b0cd33ea5db604fba1d4b62b462ea8, type: 3}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &85381093
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 85381091}
-  m_Mesh: {fileID: -1280686684268468741, guid: 1ffaa6b89bf31d949943bdeddbb9d6b2, type: 3}
---- !u!4 &85381094
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 85381091}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -24.935436, y: 18.60714, z: -125.52362}
-  m_LocalScale: {x: 2.990255, y: 2.990256, z: 2.9902484}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 187373272}
-  - {fileID: 946978798}
-  - {fileID: 1859441264}
-  - {fileID: 1238512764}
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &86823848
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1648,6 +1764,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1425880958}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -1717,6 +1838,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Cerca (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1800,6 +1926,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (79)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2027,6 +2163,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2109,6 +2255,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (119)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2483,6 +2639,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2572,6 +2738,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (69)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2589,6 +2765,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Rocadecorasion suelo (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 320955322346760352, guid: 68d7cf7427f0fb942b5e462980ad8faa,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2784928806632404490, guid: 68d7cf7427f0fb942b5e462980ad8faa,
         type: 3}
@@ -2672,6 +2853,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: flor (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2869628821943907683, guid: 0c9319660b89e8a4288785e5332e5689,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5350559247654999752, guid: 0c9319660b89e8a4288785e5332e5689,
         type: 3}
@@ -2821,6 +3007,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tronco (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2831,12 +3022,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
     type: 3}
   m_PrefabInstance: {fileID: 481856216}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &187373272 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-    type: 3}
-  m_PrefabInstance: {fileID: 349942602}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &205676959
 PrefabInstance:
@@ -2850,6 +3035,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Rocas
+      objectReference: {fileID: 0}
+    - target: {fileID: 3221040563236646554, guid: 05260065a585e9844a5aa3b0bea58a88,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7499963250337558539, guid: 05260065a585e9844a5aa3b0bea58a88,
         type: 3}
@@ -2981,6 +3171,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbusto (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3115961669892448201, guid: 81e443485dbbd7b4db8cff9a11849c1a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3154729225243039108, guid: 81e443485dbbd7b4db8cff9a11849c1a,
         type: 3}
@@ -3185,6 +3380,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3268,6 +3473,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3284,6 +3499,10 @@ PrefabInstance:
     - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
       propertyPath: m_Name
       value: Hongo (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
         type: 3}
@@ -3433,6 +3652,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3522,6 +3751,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (99)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3604,6 +3843,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (128)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3688,6 +3937,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (80)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3770,6 +4029,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (90)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3854,6 +4123,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (108)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3937,6 +4216,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3954,6 +4243,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbusto (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3115961669892448201, guid: 81e443485dbbd7b4db8cff9a11849c1a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3154729225243039108, guid: 81e443485dbbd7b4db8cff9a11849c1a,
         type: 3}
@@ -4099,6 +4393,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pasto (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 3027136359082447260, guid: d517b17ab06f1e0469bab444db98ed61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8510540246197560471, guid: d517b17ab06f1e0469bab444db98ed61,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -4185,7 +4484,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &279901651
 MeshRenderer:
@@ -4302,6 +4601,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hongo (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -4390,6 +4693,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbusto (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3115961669892448201, guid: 81e443485dbbd7b4db8cff9a11849c1a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3154729225243039108, guid: 81e443485dbbd7b4db8cff9a11849c1a,
         type: 3}
@@ -4528,6 +4836,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pasto (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3027136359082447260, guid: d517b17ab06f1e0469bab444db98ed61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8510540246197560471, guid: d517b17ab06f1e0469bab444db98ed61,
         type: 3}
@@ -4835,7 +5148,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &332949732
 Transform:
@@ -4918,7 +5231,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &334289820
 MeshRenderer:
@@ -5117,79 +5430,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 340416452}
   m_CullTransparentMesh: 1
---- !u!1001 &349942602
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 85381094}
-    m_Modifications:
-    - target: {fileID: 6413844018099331017, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 4d6cf90d25571ba41aa9b8ceb4de41b7, type: 2}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -29.07985
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -10.160502
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8225865529160974535, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_Name
-      value: eSTRELLA MAGIC001
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f0f297a14ef7ead439d9cb638c732d56, type: 3}
 --- !u!4 &350497613 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2385599936616030865, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
@@ -5212,7 +5452,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &354196079
 Transform:
@@ -5357,6 +5597,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (130)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5380,6 +5630,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbusto (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3115961669892448201, guid: 81e443485dbbd7b4db8cff9a11849c1a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3154729225243039108, guid: 81e443485dbbd7b4db8cff9a11849c1a,
         type: 3}
@@ -5596,6 +5851,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tronco (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5679,6 +5939,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5695,6 +5965,10 @@ PrefabInstance:
     - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
       propertyPath: m_Name
       value: Hongo (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
         type: 3}
@@ -5832,6 +6106,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbusto (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3115961669892448201, guid: 81e443485dbbd7b4db8cff9a11849c1a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3154729225243039108, guid: 81e443485dbbd7b4db8cff9a11849c1a,
         type: 3}
@@ -6162,6 +6441,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (97)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6245,6 +6534,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tronco (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6272,7 +6566,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &462253441
 MeshRenderer:
@@ -6623,6 +6917,10 @@ PrefabInstance:
     - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
       propertyPath: m_Name
       value: Hongo (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
         type: 3}
@@ -7126,6 +7424,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tronco (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7143,6 +7446,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pasto (09)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3027136359082447260, guid: d517b17ab06f1e0469bab444db98ed61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8510540246197560471, guid: d517b17ab06f1e0469bab444db98ed61,
         type: 3}
@@ -7292,6 +7600,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (117)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7381,6 +7699,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (110)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7464,6 +7792,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tronco (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7503,7 +7836,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &608846066
 MeshRenderer:
@@ -7578,79 +7911,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 835321580}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &620648910
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 85381094}
-    m_Modifications:
-    - target: {fileID: 6413844018099331017, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 4d6cf90d25571ba41aa9b8ceb4de41b7, type: 2}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 21.7
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -84.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8225865529160974535, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_Name
-      value: eSTRELLA MAGIC001 (2)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f0f297a14ef7ead439d9cb638c732d56, type: 3}
 --- !u!4 &624117078 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2385599936616030865, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
@@ -7669,6 +7929,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: flor (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2869628821943907683, guid: 0c9319660b89e8a4288785e5332e5689,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5350559247654999752, guid: 0c9319660b89e8a4288785e5332e5689,
         type: 3}
@@ -7818,6 +8083,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "Monta\xF1a (6)"
       objectReference: {fileID: 0}
+    - target: {fileID: 5731579102395690400, guid: 8aee9d67237ee144399f601c2c25ab10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7831,6 +8101,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1425880958}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -7901,6 +8176,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cerca (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7924,6 +8204,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbusto (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3115961669892448201, guid: 81e443485dbbd7b4db8cff9a11849c1a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3154729225243039108, guid: 81e443485dbbd7b4db8cff9a11849c1a,
         type: 3}
@@ -8128,6 +8413,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8157,6 +8452,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pasto (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3027136359082447260, guid: d517b17ab06f1e0469bab444db98ed61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8510540246197560471, guid: d517b17ab06f1e0469bab444db98ed61,
         type: 3}
@@ -8241,6 +8541,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ventana (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1943634871522557619, guid: 68df64729d2aeda468558571acb9bacd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2092809270271579146, guid: 68df64729d2aeda468558571acb9bacd,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8319,6 +8624,10 @@ PrefabInstance:
     - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
       propertyPath: m_Name
       value: Hongo (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
         type: 3}
@@ -8402,124 +8711,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 949488760}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &683581787
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 683581790}
-  - component: {fileID: 683581789}
-  - component: {fileID: 683581788}
-  m_Layer: 0
-  m_Name: Point Light (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &683581788
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 683581787}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Version: 3
-  m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
-  m_LightLayerMask: 1
-  m_RenderingLayers: 1
-  m_CustomShadowLayers: 0
-  m_ShadowLayerMask: 1
-  m_ShadowRenderingLayers: 1
-  m_LightCookieSize: {x: 1, y: 1}
-  m_LightCookieOffset: {x: 0, y: 0}
-  m_SoftShadowQuality: 0
---- !u!108 &683581789
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 683581787}
-  m_Enabled: 1
-  serializedVersion: 10
-  m_Type: 2
-  m_Shape: 0
-  m_Color: {r: 0.8862745, g: 0.7271861, b: 0.05490193, a: 1}
-  m_Intensity: 13.89
-  m_Range: 53.5
-  m_SpotAngle: 30
-  m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
-    m_CullingMatrixOverride:
-      e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    m_UseCullingMatrixOverride: 0
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingLayerMask: 1
-  m_Lightmapping: 2
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 3.59
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_UseBoundingSphereOverride: 0
-  m_UseViewFrustumForShadowCasterCull: 1
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
---- !u!4 &683581790
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 683581787}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0.7149364, y: -0, z: -0, w: 0.6991895}
-  m_LocalPosition: {x: 54, y: -8.03, z: 29.9}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 91.276, y: 0, z: 0}
 --- !u!1 &703641963
 GameObject:
   m_ObjectHideFlags: 0
@@ -8618,6 +8809,10 @@ PrefabInstance:
     - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
       propertyPath: m_Name
       value: Hongo (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
         type: 3}
@@ -8875,6 +9070,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (86)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9047,6 +9252,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1425880958}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -9117,6 +9327,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cerca (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9133,6 +9348,10 @@ PrefabInstance:
     - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
       propertyPath: m_Name
       value: Hongo
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
         type: 3}
@@ -9348,6 +9567,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (124)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9375,7 +9604,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &775305164
 MeshRenderer:
@@ -9525,6 +9754,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9538,6 +9777,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1425880958}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -9608,6 +9852,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cerca (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9629,7 +9878,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &778253378
 MeshRenderer:
@@ -9774,6 +10023,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (111)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9791,6 +10050,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Rocas (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3221040563236646554, guid: 05260065a585e9844a5aa3b0bea58a88,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7499963250337558539, guid: 05260065a585e9844a5aa3b0bea58a88,
         type: 3}
@@ -9940,6 +10204,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10023,6 +10297,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10039,6 +10323,10 @@ PrefabInstance:
     - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
       propertyPath: m_Name
       value: Hongo (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
         type: 3}
@@ -10123,6 +10411,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pasto (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 3027136359082447260, guid: d517b17ab06f1e0469bab444db98ed61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8510540246197560471, guid: d517b17ab06f1e0469bab444db98ed61,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -10205,6 +10498,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pasto (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3027136359082447260, guid: d517b17ab06f1e0469bab444db98ed61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8510540246197560471, guid: d517b17ab06f1e0469bab444db98ed61,
         type: 3}
@@ -10354,6 +10652,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10371,6 +10679,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: flor (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2869628821943907683, guid: 0c9319660b89e8a4288785e5332e5689,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5350559247654999752, guid: 0c9319660b89e8a4288785e5332e5689,
         type: 3}
@@ -10478,7 +10791,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -1593, y: 396}
+  m_AnchoredPosition: {x: -1416, y: 396}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &822336128
@@ -10740,6 +11053,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (93)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10828,6 +11151,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (133)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10918,6 +11251,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (136)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11007,6 +11350,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (88)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11089,6 +11442,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (139)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11173,6 +11536,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11256,6 +11629,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tronco (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11273,6 +11651,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pasto (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3027136359082447260, guid: d517b17ab06f1e0469bab444db98ed61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8510540246197560471, guid: d517b17ab06f1e0469bab444db98ed61,
         type: 3}
@@ -11422,6 +11805,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (57)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11445,6 +11838,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbusto (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3115961669892448201, guid: 81e443485dbbd7b4db8cff9a11849c1a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3154729225243039108, guid: 81e443485dbbd7b4db8cff9a11849c1a,
         type: 3}
@@ -11583,6 +11981,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: flor (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2869628821943907683, guid: 0c9319660b89e8a4288785e5332e5689,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5350559247654999752, guid: 0c9319660b89e8a4288785e5332e5689,
         type: 3}
@@ -11732,84 +12135,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (115)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9cd9d2138ff38c8489c0b485fe735b9e, type: 3}
---- !u!1001 &916500193
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 85381094}
-    m_Modifications:
-    - target: {fileID: 6413844018099331017, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 4d6cf90d25571ba41aa9b8ceb4de41b7, type: 2}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -13
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -83.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8225865529160974535, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_Name
-      value: eSTRELLA MAGIC001 (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f0f297a14ef7ead439d9cb638c732d56, type: 3}
 --- !u!1 &920993284
 GameObject:
   m_ObjectHideFlags: 0
@@ -11826,7 +12166,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &920993285
 MeshRenderer:
@@ -11971,6 +12311,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12054,6 +12404,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12136,6 +12496,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tronco (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12238,6 +12603,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (66)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12320,6 +12695,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (132)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12413,6 +12798,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbusto (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3115961669892448201, guid: 81e443485dbbd7b4db8cff9a11849c1a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3154729225243039108, guid: 81e443485dbbd7b4db8cff9a11849c1a,
         type: 3}
@@ -12617,6 +13007,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12627,12 +13027,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
     type: 3}
   m_PrefabInstance: {fileID: 1045637896}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &946978798 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-    type: 3}
-  m_PrefabInstance: {fileID: 916500193}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &949488760
 PrefabInstance:
@@ -12711,6 +13105,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tronco (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12807,6 +13206,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (109)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12896,6 +13305,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (105)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12913,6 +13332,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Rocadecorasion suelo (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 320955322346760352, guid: 68d7cf7427f0fb942b5e462980ad8faa,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2784928806632404490, guid: 68d7cf7427f0fb942b5e462980ad8faa,
         type: 3}
@@ -13080,6 +13504,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (116)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13162,6 +13596,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "Monta\xF1a (8)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5731579102395690400, guid: 8aee9d67237ee144399f601c2c25ab10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13322,6 +13761,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13350,7 +13799,7 @@ GameObject:
   m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!65 &1003191091
 BoxCollider:
@@ -13474,7 +13923,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -634, y: 123}
+  m_AnchoredPosition: {x: -457, y: 123}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1006248641
@@ -13593,7 +14042,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &1014712775
 MeshRenderer:
@@ -13679,6 +14128,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: flor (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2869628821943907683, guid: 0c9319660b89e8a4288785e5332e5689,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5350559247654999752, guid: 0c9319660b89e8a4288785e5332e5689,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -13760,6 +14214,10 @@ PrefabInstance:
     - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
       propertyPath: m_Name
       value: Hongo (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
         type: 3}
@@ -13909,6 +14367,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13998,6 +14466,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (68)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14080,6 +14558,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14170,6 +14658,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14193,6 +14691,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pasto (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3027136359082447260, guid: d517b17ab06f1e0469bab444db98ed61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8510540246197560471, guid: d517b17ab06f1e0469bab444db98ed61,
         type: 3}
@@ -14372,6 +14875,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (103)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14454,6 +14967,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15245,6 +15768,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ventana
       objectReference: {fileID: 0}
+    - target: {fileID: 1943634871522557619, guid: 68df64729d2aeda468558571acb9bacd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2092809270271579146, guid: 68df64729d2aeda468558571acb9bacd,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15383,6 +15911,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15542,6 +16080,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15571,6 +16119,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Rocadecorasion suelo (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 320955322346760352, guid: 68d7cf7427f0fb942b5e462980ad8faa,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2784928806632404490, guid: 68d7cf7427f0fb942b5e462980ad8faa,
         type: 3}
@@ -15650,6 +16203,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -15719,6 +16277,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Cerca
+      objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15795,6 +16358,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: flor (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2869628821943907683, guid: 0c9319660b89e8a4288785e5332e5689,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5350559247654999752, guid: 0c9319660b89e8a4288785e5332e5689,
         type: 3}
@@ -16036,7 +16604,19 @@ MonoBehaviour:
   m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1265451209}
+        m_TargetAssemblyTypeName: AudioManager, Assembly-CSharp
+        m_MethodName: SetVolumeMusic
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!4 &1152810467 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2385599936616030865, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
@@ -16132,6 +16712,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16234,6 +16824,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16253,6 +16853,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1425880958}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -16322,6 +16927,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Cerca (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16501,6 +17111,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16583,6 +17203,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "Monta\xF1a (2)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5731579102395690400, guid: 8aee9d67237ee144399f601c2c25ab10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16667,6 +17292,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (102)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16750,6 +17385,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (138)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16763,6 +17408,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1425880958}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -16833,6 +17483,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cerca (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16846,6 +17501,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1425880958}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -16915,6 +17575,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Cerca (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16999,6 +17664,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (74)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17081,6 +17756,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17165,6 +17850,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (107)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17187,6 +17882,10 @@ PrefabInstance:
     - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
       propertyPath: m_Name
       value: Hongo (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
         type: 3}
@@ -17274,7 +17973,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1230544745
 Transform:
@@ -17420,6 +18119,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "Monta\xF1a (9)"
       objectReference: {fileID: 0}
+    - target: {fileID: 5731579102395690400, guid: 8aee9d67237ee144399f601c2c25ab10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17430,12 +18134,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2385599936616030865, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
     type: 3}
   m_PrefabInstance: {fileID: 2140827006}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &1238512764 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-    type: 3}
-  m_PrefabInstance: {fileID: 1436343740}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1239692751 stripped
 Transform:
@@ -17539,6 +18237,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (104)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17640,11 +18348,167 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9cd9d2138ff38c8489c0b485fe735b9e, type: 3}
+--- !u!1 &1265451208
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1265451211}
+  - component: {fileID: 1265451209}
+  - component: {fileID: 1265451210}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1265451209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1265451208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9285b6b05765d4844849554a2418a7cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myMixer: {fileID: 24100000, guid: 13250ce59d98b584a8ef6acde3ea6510, type: 2}
+  sliderMaster: {fileID: 1717340585}
+  sliderMusic: {fileID: 1150686606}
+  sliderSFX: {fileID: 1316162362}
+  audioSettings: {fileID: 11400000, guid: 4cbe733e44cd7694ca3738f158b02318, type: 2}
+--- !u!82 &1265451210
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1265451208}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1265451211
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1265451208}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1268485310
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17722,6 +18586,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17830,6 +18704,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17876,6 +18760,10 @@ PrefabInstance:
     - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
       propertyPath: m_Name
       value: Hongo (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
         type: 3}
@@ -17961,6 +18849,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1425880958}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -18030,6 +18923,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Cerca (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18125,7 +19023,19 @@ MonoBehaviour:
   m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1265451209}
+        m_TargetAssemblyTypeName: AudioManager, Assembly-CSharp
+        m_MethodName: SetVolumeSFX
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1001 &1317788183
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18203,6 +19113,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (141)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18293,6 +19213,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (142)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18376,6 +19306,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tronco (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18458,6 +19393,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (145)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18664,6 +19609,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18747,6 +19702,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18768,7 +19733,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &1374048768
 MeshRenderer:
@@ -19048,6 +20013,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (125)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19131,6 +20106,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (120)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19152,7 +20137,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &1392679462
 MeshRenderer:
@@ -19303,6 +20288,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (140)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19385,6 +20380,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (131)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19475,6 +20480,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (76)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19508,7 +20523,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &1415519861
 MeshRenderer:
@@ -19575,6 +20590,89 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1416731746
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7362873326358193859, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: LightsModule.rangeCurve.scalar
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7362873326358193859, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 4.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 7362873326358193859, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: EmissionModule.rateOverDistance.scalar
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829451551789304537, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 32.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829451551789304537, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -11.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829451551789304537, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 25.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829451551789304537, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829451551789304537, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829451551789304537, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829451551789304537, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829451551789304537, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829451551789304537, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829451551789304537, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829451551789304542, guid: 8206b722d11501a449d6a278cca2adfa,
+        type: 3}
+      propertyPath: m_Name
+      value: VFX_Fire_01_Big_Smoke
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8206b722d11501a449d6a278cca2adfa, type: 3}
 --- !u!4 &1418422727 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2385599936616030865, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
@@ -19658,6 +20756,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19747,6 +20855,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19966,6 +21084,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (85)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19989,79 +21117,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 267663852}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1436343740
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 85381094}
-    m_Modifications:
-    - target: {fileID: 6413844018099331017, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 4d6cf90d25571ba41aa9b8ceb4de41b7, type: 2}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 53.6
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -30.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8225865529160974535, guid: f0f297a14ef7ead439d9cb638c732d56,
-        type: 3}
-      propertyPath: m_Name
-      value: eSTRELLA MAGIC001 (3)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f0f297a14ef7ead439d9cb638c732d56, type: 3}
 --- !u!1001 &1439749827
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20140,6 +21195,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20163,7 +21228,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!65 &1440219349
 BoxCollider:
@@ -20290,7 +21355,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1441405464
 Transform:
@@ -20411,6 +21476,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pasto (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3027136359082447260, guid: d517b17ab06f1e0469bab444db98ed61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8510540246197560471, guid: d517b17ab06f1e0469bab444db98ed61,
         type: 3}
@@ -20560,6 +21630,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "Monta\xF1a (4)"
       objectReference: {fileID: 0}
+    - target: {fileID: 5731579102395690400, guid: 8aee9d67237ee144399f601c2c25ab10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20642,6 +21717,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20726,6 +21811,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tronco (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20808,6 +21898,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20900,6 +22000,10 @@ PrefabInstance:
     - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
       propertyPath: m_Name
       value: Hongo (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556834519790326, guid: 4f64ebfc006766646995dab9f2168898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4191612741445430964, guid: 4f64ebfc006766646995dab9f2168898,
         type: 3}
@@ -21049,6 +22153,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21084,6 +22198,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Tronco talado
+      objectReference: {fileID: 0}
+    - target: {fileID: 2908907267341553322, guid: 89042f38536cd4d45bc50ae07006f876,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7030290528223599353, guid: 89042f38536cd4d45bc50ae07006f876,
         type: 3}
@@ -21239,6 +22358,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21321,6 +22450,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21417,6 +22556,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (112)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21499,6 +22648,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "Monta\xF1a (1)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5731579102395690400, guid: 8aee9d67237ee144399f601c2c25ab10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21661,6 +22815,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pasto (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3027136359082447260, guid: d517b17ab06f1e0469bab444db98ed61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8510540246197560471, guid: d517b17ab06f1e0469bab444db98ed61,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -21749,6 +22908,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Tronco talado (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2908907267341553322, guid: 89042f38536cd4d45bc50ae07006f876,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7030290528223599353, guid: 89042f38536cd4d45bc50ae07006f876,
         type: 3}
@@ -21898,6 +23062,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (106)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21915,6 +23089,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: flor (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2869628821943907683, guid: 0c9319660b89e8a4288785e5332e5689,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5350559247654999752, guid: 0c9319660b89e8a4288785e5332e5689,
         type: 3}
@@ -22088,6 +23267,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (129)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22170,6 +23359,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22254,6 +23453,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (144)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22337,6 +23546,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (118)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22354,6 +23573,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: flor (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2869628821943907683, guid: 0c9319660b89e8a4288785e5332e5689,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5350559247654999752, guid: 0c9319660b89e8a4288785e5332e5689,
         type: 3}
@@ -22425,124 +23649,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c9319660b89e8a4288785e5332e5689, type: 3}
---- !u!1 &1580033276
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1580033279}
-  - component: {fileID: 1580033278}
-  - component: {fileID: 1580033277}
-  m_Layer: 0
-  m_Name: Point Light
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1580033277
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1580033276}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Version: 3
-  m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
-  m_LightLayerMask: 1
-  m_RenderingLayers: 1
-  m_CustomShadowLayers: 0
-  m_ShadowLayerMask: 1
-  m_ShadowRenderingLayers: 1
-  m_LightCookieSize: {x: 1, y: 1}
-  m_LightCookieOffset: {x: 0, y: 0}
-  m_SoftShadowQuality: 0
---- !u!108 &1580033278
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1580033276}
-  m_Enabled: 1
-  serializedVersion: 10
-  m_Type: 2
-  m_Shape: 0
-  m_Color: {r: 0.8867924, g: 0.57948905, b: 0.054378804, a: 1}
-  m_Intensity: 15.04
-  m_Range: 10.2
-  m_SpotAngle: 30
-  m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
-    m_CullingMatrixOverride:
-      e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    m_UseCullingMatrixOverride: 0
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingLayerMask: 1
-  m_Lightmapping: 2
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 3.59
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_UseBoundingSphereOverride: 0
-  m_UseViewFrustumForShadowCasterCull: 1
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
---- !u!4 &1580033279
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1580033276}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0.7149364, y: -0, z: -0, w: 0.6991895}
-  m_LocalPosition: {x: 32.36, y: -8.97, z: 25.07}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 91.276, y: 0, z: 0}
 --- !u!1 &1583309931
 GameObject:
   m_ObjectHideFlags: 0
@@ -22559,7 +23665,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!23 &1583309932
 MeshRenderer:
@@ -22646,6 +23752,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1425880958}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -22715,6 +23826,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Cerca (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22799,6 +23915,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (100)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22816,6 +23942,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Rocadecorasion suelo (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 320955322346760352, guid: 68d7cf7427f0fb942b5e462980ad8faa,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2784928806632404490, guid: 68d7cf7427f0fb942b5e462980ad8faa,
         type: 3}
@@ -22965,6 +24096,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23048,6 +24189,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (146)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23089,7 +24240,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -631, y: 257.58005}
+  m_AnchoredPosition: {x: -454, y: 257.58005}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1597993471
@@ -23321,6 +24472,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (121)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23404,6 +24565,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (64)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23425,7 +24596,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1614314101
 Transform:
@@ -23570,6 +24741,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (122)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23659,6 +24840,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (126)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23741,6 +24932,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "Monta\xF1a (3)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5731579102395690400, guid: 8aee9d67237ee144399f601c2c25ab10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23825,6 +25021,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23836,6 +25042,124 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2065789819}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1646946579
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1646946582}
+  - component: {fileID: 1646946581}
+  - component: {fileID: 1646946580}
+  m_Layer: 0
+  m_Name: Area Light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1646946580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1646946579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+--- !u!108 &1646946581
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1646946579}
+  m_Enabled: 1
+  serializedVersion: 10
+  m_Type: 3
+  m_Shape: 0
+  m_Color: {r: 0.023529414, g: 0.24313727, b: 0.45882356, a: 1}
+  m_Intensity: 1
+  m_Range: 10
+  m_SpotAngle: 30
+  m_InnerSpotAngle: 21.80208
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 2
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 2
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 527.3088, y: 478.0609}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+--- !u!4 &1646946582
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1646946579}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 102.8, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!1001 &1647943467
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23913,6 +25237,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (75)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23997,6 +25331,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24080,6 +25424,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tronco (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24162,6 +25511,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (84)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24257,6 +25616,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24362,6 +25731,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Rocadecorasion suelo
+      objectReference: {fileID: 0}
+    - target: {fileID: 320955322346760352, guid: 68d7cf7427f0fb942b5e462980ad8faa,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2784928806632404490, guid: 68d7cf7427f0fb942b5e462980ad8faa,
         type: 3}
@@ -24962,7 +26336,19 @@ MonoBehaviour:
   m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1265451209}
+        m_TargetAssemblyTypeName: AudioManager, Assembly-CSharp
+        m_MethodName: SetVolumeMaster
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!4 &1725642826 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2385599936616030865, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
@@ -25046,6 +26432,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tronco
+      objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25217,7 +26608,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1755632256
 Transform:
@@ -25503,6 +26894,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tronco (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25592,6 +26988,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25605,6 +27011,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1425880958}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -25674,6 +27085,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Cerca (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25846,6 +27262,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pasto (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3027136359082447260, guid: d517b17ab06f1e0469bab444db98ed61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8510540246197560471, guid: d517b17ab06f1e0469bab444db98ed61,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -25994,6 +27415,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26083,6 +27514,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (83)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26166,6 +27607,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "Monta\xF1a"
       objectReference: {fileID: 0}
+    - target: {fileID: 5731579102395690400, guid: 8aee9d67237ee144399f601c2c25ab10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -26207,12 +27653,6 @@ PrefabInstance:
       addedObject: {fileID: 413037977}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8aee9d67237ee144399f601c2c25ab10, type: 3}
---- !u!4 &1859441264 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7470585281272059544, guid: f0f297a14ef7ead439d9cb638c732d56,
-    type: 3}
-  m_PrefabInstance: {fileID: 620648910}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1861159524
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26291,6 +27731,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26320,6 +27770,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: flor (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2869628821943907683, guid: 0c9319660b89e8a4288785e5332e5689,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5350559247654999752, guid: 0c9319660b89e8a4288785e5332e5689,
         type: 3}
@@ -26543,6 +27998,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (127)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26842,6 +28307,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rocadecorasion suelo (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 320955322346760352, guid: 68d7cf7427f0fb942b5e462980ad8faa,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2784928806632404490, guid: 68d7cf7427f0fb942b5e462980ad8faa,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -26990,6 +28460,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (89)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27007,6 +28487,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Ventana (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1943634871522557619, guid: 68df64729d2aeda468558571acb9bacd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2092809270271579146, guid: 68df64729d2aeda468558571acb9bacd,
         type: 3}
@@ -27075,6 +28560,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbusto (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3115961669892448201, guid: 81e443485dbbd7b4db8cff9a11849c1a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3154729225243039108, guid: 81e443485dbbd7b4db8cff9a11849c1a,
         type: 3}
@@ -27432,6 +28922,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "Monta\xF1a (10)"
       objectReference: {fileID: 0}
+    - target: {fileID: 5731579102395690400, guid: 8aee9d67237ee144399f601c2c25ab10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27514,6 +29009,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27604,6 +29109,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "Monta\xF1a (5)"
       objectReference: {fileID: 0}
+    - target: {fileID: 5731579102395690400, guid: 8aee9d67237ee144399f601c2c25ab10,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27687,6 +29197,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27720,7 +29240,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1950293808
 Transform:
@@ -28004,6 +29524,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rocadecorasion suelo (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 320955322346760352, guid: 68d7cf7427f0fb942b5e462980ad8faa,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2784928806632404490, guid: 68d7cf7427f0fb942b5e462980ad8faa,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -28225,6 +29750,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1425880958}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -28294,6 +29824,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Cerca (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28384,6 +29919,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tronco (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6485303221682273470, guid: a540c3aab63bdf74abaaad1069133a73,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28467,6 +30007,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28549,6 +30099,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28681,6 +30241,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28698,6 +30268,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Rocadecorasion suelo (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 320955322346760352, guid: 68d7cf7427f0fb942b5e462980ad8faa,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2784928806632404490, guid: 68d7cf7427f0fb942b5e462980ad8faa,
         type: 3}
@@ -28847,6 +30422,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28858,89 +30443,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1943169544}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &2029298890
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2029298893}
-  - component: {fileID: 2029298892}
-  - component: {fileID: 2029298891}
-  m_Layer: 0
-  m_Name: Fuego
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!23 &2029298891
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2029298890}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: 32c1c2d2a190be14db50904a7cbb9165, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &2029298892
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2029298890}
-  m_Mesh: {fileID: -6283339849540637917, guid: 1ffaa6b89bf31d949943bdeddbb9d6b2, type: 3}
---- !u!4 &2029298893
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2029298890}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0.7071069, y: -0.000000044703487, z: -0.00000003911555, w: 0.70710677}
-  m_LocalPosition: {x: 32.60997, y: -12.364632, z: 25.131962}
-  m_LocalScale: {x: 3.2097006, y: 3.2097018, z: 3.2097006}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1 &2030250183
 GameObject:
   m_ObjectHideFlags: 0
@@ -29156,6 +30658,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (70)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29238,6 +30750,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (71)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29397,6 +30919,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (143)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29485,6 +31017,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29704,6 +31246,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (77)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29786,6 +31338,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29957,6 +31519,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (114)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30052,6 +31624,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30134,6 +31716,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30218,6 +31810,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (147)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30300,6 +31902,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arbol (113)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30384,6 +31996,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (101)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30401,6 +32023,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Pasto (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3027136359082447260, guid: d517b17ab06f1e0469bab444db98ed61,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8510540246197560471, guid: d517b17ab06f1e0469bab444db98ed61,
         type: 3}
@@ -30480,6 +32107,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1425880958}
     m_Modifications:
+    - target: {fileID: 2095907908423934439, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2474111395549120781, guid: 29d7ac4bee87ea943a21e37a16719d0a,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -30549,6 +32181,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Cerca (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9150606510454858053, guid: 29d7ac4bee87ea943a21e37a16719d0a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30633,6 +32270,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbol (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2402377496317482983, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549207318617804590, guid: 9cd9d2138ff38c8489c0b485fe735b9e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30644,12 +32291,12 @@ SceneRoots:
   m_Roots:
   - {fileID: 1902756593}
   - {fileID: 1354015346}
+  - {fileID: 1265451211}
   - {fileID: 715352086}
   - {fileID: 2008331190}
   - {fileID: 775305166}
   - {fileID: 462253443}
   - {fileID: 1392679464}
-  - {fileID: 85381094}
   - {fileID: 1728621117}
   - {fileID: 334289822}
   - {fileID: 1415519863}
@@ -30669,7 +32316,6 @@ SceneRoots:
   - {fileID: 1856738750}
   - {fileID: 778253380}
   - {fileID: 327883602}
-  - {fileID: 2029298893}
   - {fileID: 205676959}
   - {fileID: 277184226}
   - {fileID: 1912702249}
@@ -30703,5 +32349,6 @@ SceneRoots:
   - {fileID: 1042485725}
   - {fileID: 1511902597}
   - {fileID: 1813170502}
-  - {fileID: 1580033279}
-  - {fileID: 683581790}
+  - {fileID: 1646946582}
+  - {fileID: 35812970}
+  - {fileID: 1416731746}

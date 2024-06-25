@@ -4,10 +4,10 @@ using UnityEngine;
 public class ElementManager : MonoBehaviour
 {
     private Queue<GameObject> elementQueue = new Queue<GameObject>();
-    public Transform shootPoint; // Punto desde donde se instanciará el objeto al disparar
+    public Transform shootPoint;
 
     [SerializeField]
-    private string[] elementsInQueue = new string[maxElements]; // Arreglo para mostrar en el inspector
+    private string[] elementsInQueue = new string[maxElements]; 
 
     private const int maxElements = 3;
 

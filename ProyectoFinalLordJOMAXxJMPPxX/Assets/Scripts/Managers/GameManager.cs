@@ -8,11 +8,14 @@ public class GameManager : MonoBehaviour
 {
     [SerializeField] private GameObject COmoJugar;
     [SerializeField] private GameObject Ajustes;
+    [SerializeField] private GameObject Bestiario;
     [SerializeField] private GameObject Ajustesesc;
+    [SerializeField] private GameObject BestiarioHash;
 
     [SerializeField] private bool veldadomentira;
+    [SerializeField] private bool veldadomentira2;
 
-    
+
 
     public void Level0()
     {
@@ -46,6 +49,11 @@ public class GameManager : MonoBehaviour
         Time.timeScale = 1;
         SceneManager.LoadScene("Selector de niveles");
     }
+
+    public void QuitarJuego()
+    {
+        Application.Quit();
+    }
     public void Howtoplay()
     {
         veldadomentira = !veldadomentira;
@@ -72,6 +80,32 @@ public class GameManager : MonoBehaviour
             Ajustes.SetActive(false);
         }
 
+    }
+    public void Bestiariowaza()
+    {
+        veldadomentira = !veldadomentira;
+        if (veldadomentira)
+        {
+            Bestiario.SetActive(true);
+
+        }
+        else
+        {
+            Bestiario.SetActive(false);
+
+        }
+    }
+    public void BuscadorHash()
+    {
+        veldadomentira2 = !veldadomentira2;
+        if (veldadomentira2)
+        {
+            BestiarioHash.SetActive(true);
+        }
+        else
+        {
+            BestiarioHash.SetActive(false);
+        }
     }
     public void Ajuste(InputAction.CallbackContext context)
     {

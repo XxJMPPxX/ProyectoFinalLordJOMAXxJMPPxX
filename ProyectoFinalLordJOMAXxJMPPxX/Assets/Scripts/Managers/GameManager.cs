@@ -62,13 +62,16 @@ public class GameManager : MonoBehaviour
 
     public void Menu()
     {
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
         Time.timeScale = 1;
         SceneManager.LoadScene("Menu");
     }
 
     public void SelectLv()
     {
-
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
         Time.timeScale = 1;
         SceneManager.LoadScene("Selector de niveles");
     }

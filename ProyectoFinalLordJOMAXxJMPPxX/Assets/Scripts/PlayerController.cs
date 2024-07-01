@@ -88,7 +88,11 @@ public class PlayerController : MonoBehaviour
 
 
         if (other.CompareTag("AGARRADO"))
+
         {
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+            Time.timeScale = 1;
             SceneManager.LoadScene("Selector de niveles");
         }
     }

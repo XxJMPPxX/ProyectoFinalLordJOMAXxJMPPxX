@@ -4,19 +4,19 @@ using TMPro;
 
 public class HashCodeChecker : MonoBehaviour
 {
-    public TMP_InputField inputField; 
-    public GameObject[] imagenezzzz;       
-    public int[] tags;                
+    public TMP_InputField inputField;
+    public GameObject[] imagenezzzz;
+    public int[] tags;
 
-    
+
     public void OnInputChanged()
     {
-        string input = inputField.text;
+        string input = inputField.text.ToUpper(); 
         int hashCode = CalculateHash(input);
 
-        Debug.Log("Input: " + input + ", HashCode: " + hashCode); 
+        Debug.Log("Input: " + input + ", HashCode: " + hashCode);
 
-        
+
         for (int i = 0; i < imagenezzzz.Length; i++)
         {
             if (tags[i] == hashCode)
@@ -32,7 +32,7 @@ public class HashCodeChecker : MonoBehaviour
         }
     }
 
-   
+
     public int CalculateHash(string input)
     {
         int hashCode = 0;
@@ -40,7 +40,7 @@ public class HashCodeChecker : MonoBehaviour
         {
             hashCode += (int)input[i];
         }
-        Debug.Log("Hash Calculado para " + input + ": " + hashCode); 
+        Debug.Log("Hash Calculado para " + input + ": " + hashCode);
         return hashCode;
     }
 }

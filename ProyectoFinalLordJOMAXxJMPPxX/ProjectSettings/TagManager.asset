@@ -19,11 +19,19 @@ TagManager:
   - FLY SNAIL
   - EVOLVED FLY SNAIL
   - EVOLVED BEE
+  - CETRO
+  - artefacto
+  - hielo1
+  - fuego1
+  - LLAMA
+  - trampa
+  - CONGELADO
+  - AGARRADO
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - groundLayer
   - Water
   - UI
   - 

@@ -3,38 +3,60 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
+using UnityEngine.Events;
+using TMPro;
 
 public class GameManager : MonoBehaviour
 {
+    public static GameManager Instance { get; private set; }
+
     [SerializeField] private GameObject COmoJugar;
     [SerializeField] private GameObject Ajustes;
     [SerializeField] private GameObject Bestiario;
     [SerializeField] private GameObject Ajustesesc;
     [SerializeField] private GameObject BestiarioHash;
-
+    [SerializeField] private GameObject Creditoswaza;
     [SerializeField] private bool veldadomentira;
     [SerializeField] private bool veldadomentira2;
+    [SerializeField] private TimeManager tiempo;
+    [SerializeField] public VidaArtefacto vida;
 
 
 
-    public void Level0()
+    public UnityEvent Perder;
+    public UnityEvent Ganar;
+
+    private void Awake()
     {
-        Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = false;
+        if (Instance != null && Instance != this)
+        {
+            Destroy(this.gameObject);
+        }
+        else
+        {
+            Instance = this;
+        }
+    }
+   
+
+
+        public void Level0()
+    {
+       
         Time.timeScale = 1;
         SceneManager.LoadScene("Level0");
     }
     public void Level1()
     {
-        Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = false;
         Time.timeScale = 1;
         SceneManager.LoadScene("Level1");
-
     }
     public void Died()
     {
+
         Time.timeScale = 1;
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
         SceneManager.LoadScene("DiedScene");
     }
 
@@ -46,6 +68,7 @@ public class GameManager : MonoBehaviour
 
     public void SelectLv()
     {
+
         Time.timeScale = 1;
         SceneManager.LoadScene("Selector de niveles");
     }
@@ -60,12 +83,10 @@ public class GameManager : MonoBehaviour
         if (veldadomentira)
         {
             COmoJugar.SetActive(true);
-
         }
         else
         {
             COmoJugar.SetActive(false);
-
         }
     }
     public void Ajusteswaza()
@@ -79,7 +100,18 @@ public class GameManager : MonoBehaviour
         {
             Ajustes.SetActive(false);
         }
-
+    }
+    public void CreditosPE()
+    {
+        veldadomentira = !veldadomentira;
+        if (veldadomentira)
+        {
+            Creditoswaza.SetActive(true);
+        }
+        else
+        {
+            Creditoswaza.SetActive(false);
+        }
     }
     public void Bestiariowaza()
     {
@@ -87,12 +119,10 @@ public class GameManager : MonoBehaviour
         if (veldadomentira)
         {
             Bestiario.SetActive(true);
-
         }
         else
         {
             Bestiario.SetActive(false);
-
         }
     }
     public void BuscadorHash()
@@ -116,8 +146,8 @@ public class GameManager : MonoBehaviour
                 veldadomentira = true;
                 Ajustesesc.SetActive(true);
                 Time.timeScale = 0;
-                Cursor.lockState = CursorLockMode.None; 
-                Cursor.visible = true; 
+                Cursor.lockState = CursorLockMode.None;
+                Cursor.visible = true;
             }
         }
     }
@@ -128,8 +158,8 @@ public class GameManager : MonoBehaviour
             veldadomentira = false;
             Ajustesesc.SetActive(false);
             Time.timeScale = 1;
-            Cursor.lockState = CursorLockMode.Locked; 
-            Cursor.visible = false; 
+            Cursor.lockState = CursorLockMode.Locked;
+            Cursor.visible = false;
         }
     }
 }

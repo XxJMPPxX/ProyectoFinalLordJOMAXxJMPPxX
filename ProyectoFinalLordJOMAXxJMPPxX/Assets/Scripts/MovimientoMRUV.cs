@@ -2,24 +2,36 @@ using UnityEngine;
 
 public class MovimientoMRUV : MonoBehaviour
 {
-    public float velocidadInicial = 5f; 
-    public float aceleracion = 2f; 
+    public float velocidadInicial = 5f;
+    public float aceleracion = 2f;
+    private GameObject objetoDeDestruccion;
 
-    private float velocidad; 
-    private float posicion;
+    private float velocidad;
+    private Vector3 direccion;
+    private float tiempoTranscurrido;
 
     void Start()
     {
-        
         velocidad = velocidadInicial;
-        posicion = transform.position.x;
+        direccion = Camera.main.transform.forward;
+        tiempoTranscurrido = 0f;
+
+        objetoDeDestruccion = GameObject.Find("VFX_Fire_01_Big_Smoke");
     }
 
     void Update()
     {
-        
-        velocidad += aceleracion * Time.deltaTime;  
-        posicion += velocidadInicial * Time.deltaTime + 0.5f * aceleracion * Mathf.Pow(Time.deltaTime, 2);
-        transform.position = new Vector3(posicion, transform.position.y, transform.position.z);
+        tiempoTranscurrido += Time.deltaTime;
+        velocidad = velocidadInicial + aceleracion * tiempoTranscurrido;
+        Vector3 nuevaPosicion = transform.position + direccion * (velocidadInicial * Time.deltaTime + 0.5f * aceleracion * Mathf.Pow(Time.deltaTime, 2));
+        transform.position = nuevaPosicion;
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        Vector3 posicion = transform.position;
+        Quaternion rotacion = Quaternion.identity;
+        Instantiate(objetoDeDestruccion, posicion, rotacion);
+        Destroy(gameObject);
     }
 }

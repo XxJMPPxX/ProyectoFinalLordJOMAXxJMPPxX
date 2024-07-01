@@ -9,5 +9,11 @@ public class RotatePrefab : MonoBehaviour
         transform.rotation = Quaternion.Euler(-90, 0, 0);
     }
 
-  
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            Destroy(gameObject);
+        }
+    }
 }

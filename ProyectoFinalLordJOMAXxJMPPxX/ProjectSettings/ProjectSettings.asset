@@ -14,7 +14,7 @@ PlayerSettings:
   accelerometerFrequency: 60
   companyName: DefaultCompany
   productName: ProyectoFinalXXJMPPXX
-  defaultCursor: {fileID: 0}
+  defaultCursor: {fileID: 2800000, guid: 66b89b2a549d69244beca401f514a5a2, type: 3}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 1

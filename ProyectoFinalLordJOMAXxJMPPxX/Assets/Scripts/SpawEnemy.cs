@@ -5,7 +5,7 @@ public class SpawnEnemy : MonoBehaviour
 {
     public GameObject[] enemyPrefabs;
     public Transform[] spawnPoints; 
-    public float spawnInterval = 3f; 
+    public float spawnInterval; 
 
     private int maxEnemies = 20; 
     private int currentEnemies = 0; 

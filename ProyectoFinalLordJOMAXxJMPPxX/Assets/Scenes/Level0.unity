@@ -203,6 +203,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (104)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -289,6 +294,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -377,6 +387,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (110)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -463,6 +478,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -717,6 +737,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -941,6 +966,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (116)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1027,6 +1057,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (90)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1167,6 +1202,7 @@ MonoBehaviour:
   jumpForce: 7
   rb: {fileID: 52519468}
   audioManager: {fileID: 670895058}
+  animator: {fileID: 0}
 --- !u!114 &52519466
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1430,6 +1466,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (67)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1673,6 +1714,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (114)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1760,6 +1806,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (107)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1846,6 +1897,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3071,6 +3127,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (129)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3157,6 +3218,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3857,6 +3923,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (63)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4076,6 +4147,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4163,6 +4239,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (92)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4249,6 +4330,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (79)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4440,6 +4526,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4553,6 +4644,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4730,6 +4826,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (96)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4950,6 +5051,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5129,6 +5235,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5321,6 +5432,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5572,6 +5688,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5851,6 +5972,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (132)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5969,6 +6095,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (118)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6111,6 +6242,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (127)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6197,6 +6333,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6391,6 +6532,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (84)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6610,6 +6756,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (137)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6962,6 +7113,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (115)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7049,6 +7205,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7135,6 +7296,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (66)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7501,6 +7667,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7920,6 +8091,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (138)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8006,6 +8182,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (99)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8196,6 +8377,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8376,6 +8562,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8462,6 +8653,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8670,6 +8866,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (89)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8756,6 +8957,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8871,6 +9077,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8984,6 +9195,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9432,6 +9648,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (134)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9578,6 +9799,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (85)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9664,6 +9890,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9778,6 +10009,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9986,6 +10222,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (91)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10072,6 +10313,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (95)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10248,6 +10494,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10334,6 +10585,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (83)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10422,6 +10678,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10508,6 +10769,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (120)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10908,6 +11174,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (108)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11200,6 +11471,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11601,6 +11877,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11687,6 +11968,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11888,6 +12174,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (101)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12029,6 +12320,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12116,6 +12412,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12202,6 +12503,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13556,6 +13862,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13951,6 +14262,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14037,6 +14353,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14769,6 +15090,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (124)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15019,6 +15345,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15106,6 +15437,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15192,6 +15528,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15310,6 +15651,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (125)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15456,6 +15802,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (98)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15848,6 +16199,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15965,6 +16321,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16173,6 +16534,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (103)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16314,6 +16680,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16400,6 +16771,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17133,6 +17509,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (68)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17784,6 +18165,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17902,6 +18288,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (131)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18082,6 +18473,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18349,6 +18745,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19115,6 +19516,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19201,6 +19607,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19536,6 +19947,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19622,6 +20038,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (87)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19869,6 +20290,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (93)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19982,6 +20408,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (121)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20256,6 +20687,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (112)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20343,6 +20779,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (119)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20429,6 +20870,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (117)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20645,6 +21091,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (74)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20907,6 +21358,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21048,6 +21504,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (69)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21135,6 +21596,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (139)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21221,6 +21687,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (106)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21569,6 +22040,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (126)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21655,6 +22131,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (94)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22035,6 +22516,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22242,6 +22728,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (123)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22328,6 +22819,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22601,6 +23097,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23237,6 +23738,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (100)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23323,6 +23829,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23470,6 +23981,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23583,6 +24099,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (130)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23790,6 +24311,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24341,6 +24867,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (111)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24455,6 +24986,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24541,6 +25077,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24721,6 +25262,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (88)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24940,6 +25486,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25321,6 +25872,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (133)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25749,6 +26305,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25836,6 +26397,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (57)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25922,6 +26488,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26156,6 +26727,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26660,6 +27236,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26746,6 +27327,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (135)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26861,6 +27447,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26974,6 +27565,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (81)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27241,8 +27837,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   COmoJugar: {fileID: 0}
   Ajustes: {fileID: 0}
+  Bestiario: {fileID: 0}
   Ajustesesc: {fileID: 1170322119}
+  BestiarioHash: {fileID: 0}
+  Creditoswaza: {fileID: 0}
   veldadomentira: 0
+  veldadomentira2: 0
+  tiempo: {fileID: 0}
+  vida: {fileID: 0}
+  Perder:
+    m_PersistentCalls:
+      m_Calls: []
+  Ganar:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!4 &1731497890
 Transform:
   m_ObjectHideFlags: 0
@@ -27530,6 +28138,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (105)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27617,6 +28230,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27703,6 +28321,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27817,6 +28440,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (113)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28025,6 +28653,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28205,6 +28838,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (102)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28318,6 +28956,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (109)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28648,6 +29291,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29533,6 +30181,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29950,6 +30603,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (122)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30037,6 +30695,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30123,6 +30786,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (97)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30269,6 +30937,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30538,6 +31211,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (136)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30624,6 +31302,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31222,6 +31905,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (86)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31738,6 +32426,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Trampas (128)
       objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31824,6 +32517,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32316,7 +33014,8 @@ Transform:
   m_LocalPosition: {x: 54.06631, y: -20.99719, z: 2.3931613}
   m_LocalScale: {x: 1.5962774, y: 1.5962826, z: 2.0789647}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 8891327082811575639}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1672134537791083362
@@ -32907,6 +33606,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Trampas
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776056616296829427, guid: cc78faa7c4fc78e43b77f3624ad71419,
+        type: 3}
+      propertyPath: m_TagString
+      value: trampa
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33925,9 +34629,10 @@ GameObject:
   - component: {fileID: 6886952417150185727}
   - component: {fileID: 7599833261026438260}
   - component: {fileID: 7599833261026438261}
+  - component: {fileID: 7599833261026438262}
   m_Layer: 0
   m_Name: Cetro del artefacto
-  m_TagString: Untagged
+  m_TagString: AGARRADO
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -34104,6 +34809,27 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 3975753117468423300, guid: 1ffaa6b89bf31d949943bdeddbb9d6b2, type: 3}
+--- !u!65 &7599833261026438262
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6957301700644674820}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.0197426, y: 1.099057, z: 1.234531}
+  m_Center: {x: -0.058849473, y: 0.12326373, z: 0.5453965}
 --- !u!23 &7623671924091406331
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -34683,13 +35409,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4615771363387802076}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.69357246, y: -0.13768545, z: -0.13768545, w: 0.69357246}
-  m_LocalPosition: {x: 54.244495, y: -19.458591, z: 2.2618642}
-  m_LocalScale: {x: 0.48039615, y: 0.4803951, z: 0.82201844}
+  m_LocalRotation: {x: -0, y: 0.000000029802322, z: 0.55588704, w: 0.8312579}
+  m_LocalPosition: {x: -0.08225206, y: 0.111624666, z: 0.7400794}
+  m_LocalScale: {x: 0.30094692, y: 0.30094704, z: 0.39539802}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5039914801151347270}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1601515359145943638}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!64 &8891327082811575640
 MeshCollider:
@@ -34937,7 +35663,6 @@ SceneRoots:
   - {fileID: 1591523103}
   - {fileID: 834746971}
   - {fileID: 1601515359145943638}
-  - {fileID: 8891327082811575639}
   - {fileID: 3042602136884570196}
   - {fileID: 1564192605}
   - {fileID: 843809610}

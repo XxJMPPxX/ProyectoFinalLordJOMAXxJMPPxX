@@ -12,7 +12,9 @@ GameObject:
   - component: {fileID: 1956315257575841688}
   - component: {fileID: 1792311140093917468}
   - component: {fileID: 5376132001221283206}
-  - component: {fileID: 5969431453704200216}
+  - component: {fileID: -8206357961077538335}
+  - component: {fileID: -2048488910969836776}
+  - component: {fileID: 4601214097622187559}
   m_Layer: 0
   m_Name: SpellHielo 1
   m_TagString: Untagged
@@ -31,7 +33,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -62.34, y: 0.76, z: -1.43}
   m_LocalScale: {x: 2, y: 2, z: 2}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 5168826776962881096}
   m_Father: {fileID: 0}
@@ -98,33 +100,58 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37ba56db1a62b3d4f93454eac817b785, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  duration: 3
-  animationCurve:
+  duration: 1
+  rotationSpeed: 360
+  easingType: 1
+--- !u!65 &-8206357961077538335
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7533521117404144475}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
     serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    - serializedVersion: 3
-      time: 1
-      value: 1
-      inSlope: 2
-      outSlope: 2
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  rotationSpeed: 45
---- !u!114 &5969431453704200216
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.6683086, y: 0.6118262, z: 1.2274487}
+  m_Center: {x: 0.0028698295, y: 0.000060141087, z: 0.62882423}
+--- !u!54 &-2048488910969836776
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7533521117404144475}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &4601214097622187559
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -133,7 +160,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 7533521117404144475}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cbc17d9bc4506de46af3af1e548fbf8b, type: 3}
+  m_Script: {fileID: 11500000, guid: 3541ea8cc128ee74790b5ea37ce2458f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   velocidadInicial: 10

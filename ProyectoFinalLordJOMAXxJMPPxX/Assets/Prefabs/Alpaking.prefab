@@ -11,7 +11,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: b86c730947c59ad4dba769df576f86ea,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -1.34
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b86c730947c59ad4dba769df576f86ea,
         type: 3}
@@ -21,7 +21,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: b86c730947c59ad4dba769df576f86ea,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -27.86
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b86c730947c59ad4dba769df576f86ea,
         type: 3}
@@ -79,6 +79,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 3766651095722236001}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: b86c730947c59ad4dba769df576f86ea,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3320139133251950253}
   m_SourcePrefab: {fileID: 100100000, guid: b86c730947c59ad4dba769df576f86ea, type: 3}
 --- !u!1 &1655613616885271857 stripped
 GameObject:
@@ -130,7 +134,9 @@ MonoBehaviour:
   damage: 0
   basicSpeed: 3
   basicHealth: 100
-  basicDamage: 10
+  basicDamage: 1
+  vidaArtefacto: {fileID: 0}
+  animator: {fileID: 3320139133251950253}
   target: {fileID: 0}
 --- !u!65 &3766651095722236001
 BoxCollider:
@@ -151,5 +157,26 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1.4480648, y: 3.2727342, z: 2.03569}
+  m_Center: {x: 0.0036725998, y: 1.6695459, z: -0.7235142}
+--- !u!95 &3320139133251950253
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655613616885271857}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ae91460b5acbf4048bcae7f149637427, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

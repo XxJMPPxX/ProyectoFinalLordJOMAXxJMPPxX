@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -11,14 +12,17 @@ public class PlayerController : MonoBehaviour
     private int jumpCount;
     private Vector2 movementInput;
     public AudioLibreria audioManager;
-
-
+    public Animator animator;
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody>();
+        animator = GetComponent<Animator>();
+    }
 
-       
+    private void Start()
+    {
+        animator.SetBool("OnRun", false);
     }
 
     private void FixedUpdate()
@@ -26,17 +30,22 @@ public class PlayerController : MonoBehaviour
         Vector3 moveDirection = transform.right * movementInput.x + transform.forward * movementInput.y;
         Vector3 velocity = moveDirection * speed;
         rb.velocity = new Vector3(velocity.x, rb.velocity.y, velocity.z);
-
-       
     }
 
     public void Move(InputAction.CallbackContext context)
     {
         movementInput = context.ReadValue<Vector2>();
-        
-        audioManager.SFXSource.clip = audioManager.SFXSOunds[1];
-        audioManager.SFXSource.Play();
 
+        if (isGrounded && (movementInput.x != 0 || movementInput.y != 0))
+        {
+            audioManager.SFXSource.clip = audioManager.SFXSOunds[1];
+            audioManager.SFXSource.Play();
+            animator.SetBool("OnRun", true);
+        }
+        else
+        {
+            animator.SetBool("OnRun", false);
+        }
     }
 
     public void Jump(InputAction.CallbackContext context)
@@ -70,20 +79,17 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    private void OnCollisionExit(Collision collision)
+    private void OnTriggerEnter(Collider other)
     {
-        if (collision.gameObject.CompareTag("Ground"))
+        if (other.CompareTag("trampa"))
         {
-            isGrounded = false;
+            SceneManager.LoadScene("Level0");
+        }
+
+
+        if (other.CompareTag("AGARRADO"))
+        {
+            SceneManager.LoadScene("Selector de niveles");
         }
     }
-
-    private void OnCollisionStay(Collision collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            isGrounded = true;
-        }
-    }
-
 }

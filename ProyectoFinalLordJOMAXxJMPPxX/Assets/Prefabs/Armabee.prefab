@@ -11,7 +11,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: fb77178010206be4b9382d5245a898ff,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 9.58
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fb77178010206be4b9382d5245a898ff,
         type: 3}
@@ -21,7 +21,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: fb77178010206be4b9382d5245a898ff,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -23.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fb77178010206be4b9382d5245a898ff,
         type: 3}
@@ -79,6 +79,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 3348344530584514177}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: fb77178010206be4b9382d5245a898ff,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5977811764490099725}
   m_SourcePrefab: {fileID: 100100000, guid: fb77178010206be4b9382d5245a898ff, type: 3}
 --- !u!1 &5934803049279033194 stripped
 GameObject:
@@ -130,7 +134,9 @@ MonoBehaviour:
   damage: 0
   basicSpeed: 3
   basicHealth: 100
-  basicDamage: 10
+  basicDamage: 1
+  vidaArtefacto: {fileID: 0}
+  animator: {fileID: 5977811764490099725}
   target: {fileID: 0}
 --- !u!65 &3348344530584514177
 BoxCollider:
@@ -151,5 +157,26 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1.4113382, y: 2.6071713, z: 1.4333739}
+  m_Center: {x: -0.022036016, y: 1.2987567, z: 0.003672719}
+--- !u!95 &5977811764490099725
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5934803049279033194}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7cce6de7b976dfa4d8159754758868af, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

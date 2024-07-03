@@ -16,24 +16,7 @@ public class BasicEnemy : Enemy
         animator.SetBool("isAttacking", false);
 
         centroArtefacto = GameObject.Find("CentroArtefacto");
-        if (centroArtefacto == null)
-        {
-            Debug.LogError("CentroArtefacto no encontrado. Asegúrate de que el objeto esté en la escena.");
-        }
-
-        GameObject vidaArtefactoObject = GameObject.Find("CentroArtefacto");
-        if (vidaArtefactoObject != null)
-        {
-            vidaArtefacto = vidaArtefactoObject.GetComponent<VidaArtefacto>();
-            if (vidaArtefacto == null)
-            {
-                Debug.LogError("El GameObject encontrado no tiene un componente VidaArtefacto.");
-            }
-        }
-        else
-        {
-            Debug.LogError("No se encontró un GameObject con el nombre especificado.");
-        }
+        vidaArtefacto = centroArtefacto.GetComponent<VidaArtefacto>(); 
     }
 
     private void Update()
@@ -43,6 +26,7 @@ public class BasicEnemy : Enemy
         if (centroArtefacto != null)
         {
             transform.position = Vector3.MoveTowards(transform.position, centroArtefacto.transform.position, step);
+            transform.LookAt(centroArtefacto.transform);
         }
 
         if (basicHealth <= 0)
@@ -93,12 +77,9 @@ public class BasicEnemy : Enemy
             basicHealth -= 10 * Time.deltaTime;
         }
 
-
         if (other.CompareTag("CONGELADO"))
         {
             speed = 0;
         }
-
-
     }
 }

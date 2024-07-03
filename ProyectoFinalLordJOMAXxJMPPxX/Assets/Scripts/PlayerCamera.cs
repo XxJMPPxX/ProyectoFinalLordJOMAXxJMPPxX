@@ -15,7 +15,7 @@ public class PlayerCamera : MonoBehaviour
 
     void Update()
     {
-        // Captura la entrada del mouse
+      
         float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
         float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
 

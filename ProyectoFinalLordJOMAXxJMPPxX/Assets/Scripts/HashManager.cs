@@ -11,7 +11,7 @@ public class HashCodeChecker : MonoBehaviour
 
     public void OnInputChanged()
     {
-        string input = inputField.text.ToUpper(); 
+        string input = inputField.text;
         int hashCode = CalculateHash(input);
 
         Debug.Log("Input: " + input + ", HashCode: " + hashCode);
@@ -44,3 +44,4 @@ public class HashCodeChecker : MonoBehaviour
         return hashCode;
     }
 }
+
